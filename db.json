@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "1",
+      "titulo": "The Social Network",
+      "imagem": "https://i.ytimg.com/vi/lB95KLmpLR4/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=lB95KLmpLR4",
+      "descricao": "Baseado na história real de Mark Zuckerberg e a criação do Facebook. O filme explora a jornada de um jovem programador que cria uma das maiores redes sociais do mundo."
+    },
+    {
+        "id": "2",
+        "categoria": "1",
+        "titulo": "The Imitation Game",
+        "imagem": "https://i.ytimg.com/vi/nuPZUUED5uk/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=nuPZUUED5uk",
+        "descricao": "Conta a história de Alan Turing e seu trabalho durante a Segunda Guerra Mundial para decifrar o código Enigma dos nazistas."
+      },
+      {
+        "id": "3",
+        "categoria": "1",
+        "titulo": "Ex Machina",
+        "imagem": "https://i.ytimg.com/vi/EoQuVnKhxaM/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=EoQuVnKhxaM",
+        "descricao": "Um jovem programador é escolhido para avaliar as capacidades e a consciência de uma robô com inteligência artificial avançada."
+      },
+      {
+        "id": "4",
+        "categoria": "2",
+        "titulo": "Hackers",
+        "imagem": "https://i.ytimg.com/vi/piI9vJ9-UZ0/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=piI9vJ9-UZ0",
+        "descricao": "Embora um pouco fantasioso, este clássico cult mostra a subcultura hacker dos anos 90 e como diferentes tecnologias e códigos são usados para hackear sistemas. É divertido e dá uma visão sobre a segurança da informação."
+      },
+      {
+        "id": "5",
+        "categoria": "2",
+        "titulo": "WARGAMES",
+        "imagem": "https://i.ytimg.com/vi/TQUsLAAZuhU/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=TQUsLAAZuhU",
+        "descricao": " Um jovem hacker, sem querer, quase inicia a Terceira Guerra Mundial ao invadir um supercomputador militar. Este filme é um clássico e oferece uma perspectiva interessante sobre segurança e redes de computadores."
+      },
+      {
+        "id": "6",
+        "categoria": "2",
+        "titulo": "Tron: Legacy",
+        "imagem": "https://i.ytimg.com/vi/L9szn1QQfas/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=L9szn1QQfas",
+        "descricao": "Uma sequência do clássico Tron (1982), onde o protagonista é transportado para dentro de um programa de computador. A estética e a narrativa envolvem muitos conceitos de computação e programação."
+      },
+      {
+        "id": "7",
+        "categoria": "3",
+        "titulo": "Steve Jobs",
+        "imagem": "https://i.ytimg.com/vi/aEr6K1bwIVs/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=aEr6K1bwIVs",
+        "descricao": "Baseado na biografia de Steve Jobs escrita por Walter Isaacson, este filme retrata a vida do co-fundador da Apple e o impacto que ele teve no mundo da tecnologia, incluindo o desenvolvimento do iPhone, um marco importante na história da programação mobile."
+      },
+      {
+        "id": "8",
+        "categoria": "3",
+        "titulo": "Pirates of Silicon Valley",
+        "imagem": "https://i.ytimg.com/vi/nzJLmcGfMag/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=nzJLmcGfMag",
+        "descricao": "Este filme feito para a TV narra a história dos fundadores da Apple e da Microsoft, mostrando a rivalidade entre Steve Jobs e Bill Gates. Ele fornece um contexto histórico sobre as origens da computação pessoal."
+      },
+      {
+        "id": "9",
+        "categoria": "3",
+        "titulo": "The Internship",
+        "imagem": "https://i.ytimg.com/vi/jir62_ptloI/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=jir62_ptloI",
+        "descricao": "Uma comédia sobre dois vendedores de meia-idade que tentam se reinventar como estagiários no Google. Embora o foco não seja exclusivamente em programação, o filme oferece uma visão divertida do ambiente de trabalho em uma grande empresa de tecnologia."
+      }
+  ]
+}
