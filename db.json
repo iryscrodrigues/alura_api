@@ -3,74 +3,74 @@
     {
       "id": "1",
       "categoria": "1",
-      "titulo": "The Social Network",
-      "imagem": "https://i.ytimg.com/vi/lB95KLmpLR4/maxresdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=lB95KLmpLR4",
-      "descricao": "Baseado na história real de Mark Zuckerberg e a criação do Facebook. O filme explora a jornada de um jovem programador que cria uma das maiores redes sociais do mundo."
+      "titulo": "O que faz uma desenvolvedora Front-End",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
     },
     {
         "id": "2",
         "categoria": "1",
-        "titulo": "The Imitation Game",
-        "imagem": "https://i.ytimg.com/vi/nuPZUUED5uk/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=nuPZUUED5uk",
-        "descricao": "Conta a história de Alan Turing e seu trabalho durante a Segunda Guerra Mundial para decifrar o código Enigma dos nazistas."
+        "titulo": "ÁRVORE BINÁRIA de BUSCA | Estruturas de Dados #13",
+        "imagem": "https://i.ytimg.com/vi/VmKkAQtnjsM/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=VmKkAQtnjsM",
+        "descricao": "Neste vídeo, iniciamos a implementação de uma Árvore Binária de Busca, uma estrutura de dados que favorece a realização de buscas muito eficientes."
       },
       {
         "id": "3",
         "categoria": "1",
-        "titulo": "Ex Machina",
-        "imagem": "https://i.ytimg.com/vi/EoQuVnKhxaM/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=EoQuVnKhxaM",
-        "descricao": "Um jovem programador é escolhido para avaliar as capacidades e a consciência de uma robô com inteligência artificial avançada."
+        "titulo": "O que é e o que faz quem trabalha com UX?",
+        "imagem": "https://i.ytimg.com/vi/FJhMCi07T4A/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=FJhMCi07T4A",
+        "descricao": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços. "
       },
       {
         "id": "4",
         "categoria": "2",
-        "titulo": "Hackers",
-        "imagem": "https://i.ytimg.com/vi/piI9vJ9-UZ0/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=piI9vJ9-UZ0",
-        "descricao": "Embora um pouco fantasioso, este clássico cult mostra a subcultura hacker dos anos 90 e como diferentes tecnologias e códigos são usados para hackear sistemas. É divertido e dá uma visão sobre a segurança da informação."
+        "titulo": "O que estudar para ser desenvolvedor backend",
+        "imagem": "https://i.ytimg.com/vi/3Wo4L2dPS58/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=3Wo4L2dPS58",
+        "descricao": "Oie! No vídeo de hoje eu trouxe algumas dicas para começar os estudos para ser dev backend"
       },
       {
         "id": "5",
         "categoria": "2",
-        "titulo": "WARGAMES",
-        "imagem": "https://i.ytimg.com/vi/TQUsLAAZuhU/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=TQUsLAAZuhU",
-        "descricao": " Um jovem hacker, sem querer, quase inicia a Terceira Guerra Mundial ao invadir um supercomputador militar. Este filme é um clássico e oferece uma perspectiva interessante sobre segurança e redes de computadores."
+        "titulo": "#5 Github CLI: A Solução para Todos os Problemas",
+        "imagem": "https://i.ytimg.com/vi/CMAVoUiEd7M/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=CMAVoUiEd7M",
+        "descricao": "Nessa série de vídeo, você irá ficar craque com a ferramenta que é indispensável para qualquer programador: O GIT."
       },
       {
         "id": "6",
         "categoria": "2",
-        "titulo": "Tron: Legacy",
-        "imagem": "https://i.ytimg.com/vi/L9szn1QQfas/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=L9szn1QQfas",
-        "descricao": "Uma sequência do clássico Tron (1982), onde o protagonista é transportado para dentro de um programa de computador. A estética e a narrativa envolvem muitos conceitos de computação e programação."
+        "titulo": "Qual é a melhor linguagem de programação?",
+        "imagem": "https://i.ytimg.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+        "descricao": "PHP, JavaScript, Python, Java e outras... qual é a melhor?"
       },
       {
         "id": "7",
         "categoria": "3",
-        "titulo": "Steve Jobs",
-        "imagem": "https://i.ytimg.com/vi/aEr6K1bwIVs/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=aEr6K1bwIVs",
-        "descricao": "Baseado na biografia de Steve Jobs escrita por Walter Isaacson, este filme retrata a vida do co-fundador da Apple e o impacto que ele teve no mundo da tecnologia, incluindo o desenvolvimento do iPhone, um marco importante na história da programação mobile."
+        "titulo": "Desenvolvimento Android",
+        "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+        "descricao": "Um episódio focado no desenvolvimento de aplicações Android."
       },
       {
         "id": "8",
         "categoria": "3",
-        "titulo": "Pirates of Silicon Valley",
-        "imagem": "https://i.ytimg.com/vi/nzJLmcGfMag/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=nzJLmcGfMag",
-        "descricao": "Este filme feito para a TV narra a história dos fundadores da Apple e da Microsoft, mostrando a rivalidade entre Steve Jobs e Bill Gates. Ele fornece um contexto histórico sobre as origens da computação pessoal."
+        "titulo": "React Native // Dicionário do Programador",
+        "imagem": "https://i.ytimg.com/vi/mqltv3kFdgE/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=mqltv3kFdgE",
+        "descricao": "Venha descobrir porque o React Native está se tornando o framework queridinho para desenvolvimento de aplicativos mobile."
       },
       {
         "id": "9",
         "categoria": "3",
-        "titulo": "The Internship",
-        "imagem": "https://i.ytimg.com/vi/jir62_ptloI/maxresdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=jir62_ptloI",
-        "descricao": "Uma comédia sobre dois vendedores de meia-idade que tentam se reinventar como estagiários no Google. Embora o foco não seja exclusivamente em programação, o filme oferece uma visão divertida do ambiente de trabalho em uma grande empresa de tecnologia."
+        "titulo": "A Aula de Flutter Que Todo Mundo Deveria Ter",
+        "imagem": "https://i.ytimg.com/vi/J4BVaXkwmM8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+        "descricao": "Você sabia que o curso de Flutter que tem na Alura foi feito em parceria com o Nubank, um dos maiores cases de Flutter do mundo?"
       }
   ]
 }
